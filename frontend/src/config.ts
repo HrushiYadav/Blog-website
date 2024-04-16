@@ -1,0 +1,1 @@
+export const BACKEND_URL= "https://medium-backoffice.yadavhrushikesh65.workers.dev"
