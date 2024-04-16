@@ -1,6 +1,6 @@
 import { Blog } from "../hooks"
-import { Navbar } from "./Navbar"
 import { Avatar } from "./BlogCard"
+import { Navbar } from "./Navbar"
 
 export const FullBlog = ({ blog }: {blog: Blog}) => {
     return <div>
